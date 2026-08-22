@@ -1,4 +1,3 @@
-# Sinan-PS
 # Hi, I'm Sinan P Salim
 
 Data Analyst and Data Scientist with a strong foundation in statistics and hands-on experience building data pipelines, statistical models, and analytical solutions.
